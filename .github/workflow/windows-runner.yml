@@ -1,4 +1,4 @@
-name: Greeting from workflow on Windows
+name: Greeting from a workflow on Windows
 
 on: workflow_dispatch
 
