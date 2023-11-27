@@ -1,4 +1,4 @@
-name: Greeting from workflow on MacOS
+name: Greeting from a workflow on MacOS
 
 on: workflow_dispatch
 
